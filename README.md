@@ -30,7 +30,7 @@
    corepack prepare pnpm@latest --activate
    ```
 
-4. **Fork and clone** the project repository by following the guide
+4. **Fork and clone** the project repository by following [this guide](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source)
 
 5. **Install dependencies**:
    ```bash
