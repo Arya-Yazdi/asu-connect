@@ -19,7 +19,7 @@
 ## Getting Started
 
 1. **Make sure you meet all requirements stated above**
-- Download [Node.js 18.18](https://nodejs.org/en/download) or higher
+    - Download [Node.js 18.18](https://nodejs.org/en/download) or higher
 
 2. **Enable Corepack** (ships with Node.js):
    ```bash
