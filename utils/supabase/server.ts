@@ -1,3 +1,4 @@
+// Used for DB access.
 // A server-side Supabase client factory That integrates cookie-based authentication 
 // So you can fetch Supabase data in Next.js server components, API routes, or middleware, 
 // while respecting the logged-in user’s session.
